@@ -224,13 +224,8 @@ python realtime.py
 
 *[Video demo sẽ được thêm vào sau]*
 
-Trong video demo, bạn sẽ thấy:
-- Nhận dạng real-time các ký hiệu ASL
-- Giao diện PyQt5 với visualization landmarks
-- Độ chính xác và tốc độ xử lý
-- Text-to-speech feedback
 
-## 🔧 Kỹ thuật nâng cao
+## 🔧 Kỹ thuật bổ sung
 
 ### 1. **Data Preprocessing**
 - **CLAHE Enhancement**: Cải thiện contrast cho điều kiện ánh sáng khác nhau
