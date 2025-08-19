@@ -269,7 +269,7 @@ python realtime.py
 
 ## 👥 Đóng góp
 
-Dự án mở để học tập và nghiên cứu. Mọi đóng góp và feedback đều được hoan nghênh!
+Dự án mở để mọi người học tập và nghiên cứu.
 
 ## 📄 License
 
